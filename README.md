@@ -15,3 +15,14 @@ Zadania
 9. Którego dnia sprzedano najwięcej produktów (suma `pieces_sold` dla każdego dnia)?
 10. Jaka jest największa liczba jednorazowo kupionych produktów w każdym ze sklepów w każdy z dostępnych dni (max `pieces_sold`)?
 11. Jakie to były produkty?
+
+
+Zadania walidacja danych
+
+1. Sprawdź czy istnieją dane z brakującymi identyfikatorami sklepów.
+2. Sprawdź czy istnieją zamówienia z liczbą produktów większą niż 15.
+3. Sprawdź czy istneiją zamówienia w wybranej przez siebie kategorii.
+4. Sprawdź czy wszystkie nazwy produktów są unikalne.
+5. Sprawdź czy nazwy produktów nie są puste oraz nie dłuższe niż 20 znaków.
+6. Sprawdź czy liczba unikalnych produktów jest większa niż 900.
+7. Sprawdź czy istnieją zamówienia których cena pojedynczego przedmiotu jest większa niż: średnia cena przedmiotu + dwukrotność odchylenia standardowego
