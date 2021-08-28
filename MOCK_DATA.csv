@@ -1,0 +1,1001 @@
+order_id,product_name,pieces_sold,price_per_item,order_date,shop_id
+1,Coffee - Frthy Coffee Crisp,69,9182.36,2020-06-05,shop_1
+2,Muffin Mix - Chocolate Chip,52,3589.28,2021-01-02,shop_3
+3,Remy Red Berry Infusion,1,962.88,2020-12-07,shop_2
+4,Kellogs Cereal In A Cup,34,1294.57,2020-04-22,shop_3
+5,Petite Baguette,96,9693.23,2020-07-28,shop_2
+6,Dawn Professionl Pot And Pan,13,8291.49,2020-08-14,shop_1
+7,Bar Bran Honey Nut,69,1479.02,2020-06-02,shop_4
+8,Ecolab - Balanced Fusion,51,6169.77,2020-09-19,shop_3
+9,Tea - Apple Green Tea,19,5702.8,2020-05-08,shop_1
+10,Bread - Olive,24,3652.05,2020-11-16,shop_1
+11,Island Oasis - Lemonade,70,8767.71,2020-09-09,shop_4
+12,Pastry - Cheese Baked Scones,28,1303.3,2020-04-01,shop_2
+13,Onions - Cippolini,70,1555.18,2020-10-12,shop_2
+14,"Pepper - Green, Chili",27,1362.7,2020-02-03,shop_3
+15,Straw - Regular,93,8181.0,2020-06-08,shop_1
+16,Mahi Mahi,29,6701.16,2020-02-17,shop_1
+17,Dip - Tapenade,27,4014.28,2020-10-06,shop_4
+18,Cucumber - English,48,8390.61,2020-11-08,shop_4
+19,"Crush - Grape, 355 Ml",70,6329.0,2020-04-21,shop_2
+20,Tea - Apple Green Tea,10,4900.26,2020-08-27,shop_1
+21,"Wine - White, Antinore Orvieto",,5053.21,2020-03-22,shop_4
+22,Muffin Puck Ww Carrot,,4066.12,2020-06-17,shop_1
+23,Container Clear 8 Oz,92,9853.22,2020-04-24,shop_3
+24,V8 - Vegetable Cocktail,17,6860.32,2020-11-26,shop_3
+25,Wine - Casillero Deldiablo,73,9701.67,2020-05-27,shop_2
+26,Oil - Coconut,11,8320.93,2020-06-15,shop_3
+27,Pasta - Ravioli,83,6288.11,2020-07-14,shop_3
+28,Veal - Leg,71,5747.28,2021-01-08,shop_4
+29,"Napkin - Beverge, White 2 - Ply",77,623.83,2020-09-17,shop_1
+30,"Ham - Smoked, Bone - In",75,8101.43,2020-02-10,shop_1
+31,Taro Leaves,70,6.6,2020-11-13,shop_4
+32,Pants Custom Dry Clean,15,870.74,2020-02-07,shop_3
+33,Crackers Cheez It,26,6720.6,2020-02-16,shop_1
+34,Oil - Margarine,23,728.77,2020-04-13,shop_3
+35,Bar - Sweet And Salty Chocolate,56,8169.21,2020-04-06,shop_1
+36,"Soda Water - Club Soda, 355 Ml",97,6988.11,2020-02-12,shop_2
+37,Sausage - Meat,33,1608.33,2020-07-18,shop_4
+38,"Pepper - White, Whole",97,5729.07,2020-04-23,shop_3
+39,Muffin - Blueberry Individual,27,3208.13,2020-07-23,shop_1
+40,"Wine - Red, Cabernet Merlot",98,3701.17,2020-12-02,shop_1
+41,Vinegar - Champagne,26,5764.1,2020-04-18,shop_1
+42,Wine - Pinot Noir Stoneleigh,12,5782.07,2020-07-09,shop_2
+43,"Ham - Smoked, Bone - In",28,2985.79,2020-06-16,shop_4
+44,"Turnip - White, Organic",44,8182.11,2020-06-09,shop_1
+45,Pail With Metal Handle 16l White,83,1408.15,2020-11-08,shop_4
+46,Eggroll,17,8385.03,2020-10-09,shop_1
+47,"Tendrils - Baby Pea, Organic",92,8662.26,2020-06-02,shop_2
+48,Wine - Sogrape Mateus Rose,68,6202.88,2020-11-25,shop_4
+49,Flower - Leather Leaf Fern,12,5895.75,2020-12-22,shop_4
+50,Coffee - Egg Nog Capuccino,,1060.7,2020-08-13,shop_4
+51,Extract - Lemon,34,6391.44,2020-07-31,shop_4
+52,Hot Choc Vending,38,2284.74,2020-03-13,shop_4
+53,Mushroom - Morel Frozen,85,8671.71,2020-07-18,shop_4
+54,Pineapple - Golden,7,2187.11,2020-02-23,shop_3
+55,Barley - Pearl,98,9675.73,2020-12-07,shop_3
+56,Tarts Assorted,4,9813.82,2020-10-27,shop_1
+57,Pie Shell - 9,99,1251.95,2020-10-29,shop_4
+58,Southern Comfort,100,235.62,2020-10-20,shop_1
+59,Cheese - Goat,4,1428.9,2020-02-01,shop_4
+60,Chicken - Wieners,66,3348.42,2020-10-15,shop_3
+61,Sprouts - Bean,13,8751.76,2020-11-01,shop_1
+62,Wasabi Powder,2,9938.23,2020-04-14,shop_2
+63,Rabbit - Legs,33,5561.91,2020-05-31,shop_2
+64,"Star Anise, Whole",8,4131.24,2020-08-19,
+65,Initation Crab Meat,45,9447.31,2020-08-31,shop_3
+66,Smirnoff Green Apple Twist,37,6497.49,2020-10-13,shop_1
+67,Wine - Conde De Valdemar,83,2369.72,2020-01-20,shop_2
+68,Pasta - Ravioli,45,187.98,2020-05-28,shop_4
+69,Ham - Proscuitto,36,5301.65,2020-08-27,shop_2
+70,Turkey - Oven Roast Breast,63,9220.41,2020-02-12,shop_4
+71,Shrimp - Prawn,48,1586.87,2020-06-13,shop_2
+72,Longos - Cheese Tortellini,32,8047.74,2020-01-28,shop_3
+73,Table Cloth 91x91 Colour,50,2534.53,2020-03-14,shop_3
+74,Dill Weed - Fresh,84,8542.06,2020-10-31,shop_3
+75,"Soup - Campbells, Cream Of",41,1169.13,2020-04-27,shop_3
+76,Mousse - Passion Fruit,76,246.55,2020-07-15,shop_3
+77,"Nut - Walnut, Chopped",87,8558.05,2020-03-12,
+78,Mcguinness - Blue Curacao,53,824.77,2020-06-26,shop_1
+79,"Tart Shells - Barquettes, Savory",13,3432.16,2020-04-15,shop_4
+80,Milk - 1%,39,4789.22,2021-01-01,shop_3
+81,Smoked Tongue,36,3545.96,2020-03-03,shop_1
+82,Pepper - Cubanelle,11,7573.96,2020-09-06,
+83,Muffin Mix - Oatmeal,54,271.3,2020-05-13,shop_4
+84,Veal - Nuckle,91,7952.17,2020-11-10,shop_4
+85,Soup Campbells,45,4845.28,2020-12-30,shop_3
+86,Potatoes - Mini White 3 Oz,18,2187.68,2020-07-06,shop_2
+87,Wine - Zinfandel California 2002,98,1825.54,2020-11-30,shop_2
+88,"Lemonade - Black Cherry, 591 Ml",46,7269.57,2020-04-29,shop_1
+89,Dragon Fruit,94,1112.1,2020-07-20,shop_3
+90,Country Roll,85,1130.47,2020-02-20,shop_2
+91,Beans - French,95,7760.99,2020-09-21,shop_3
+92,Pastry - Lemon Danish - Mini,25,216.66,2020-08-25,shop_2
+93,Island Oasis - Sweet And Sour Mix,84,7749.81,2020-09-16,shop_2
+94,Cheese - Marble,33,5443.49,2020-12-02,shop_3
+95,Bread - Italian Corn Meal Poly,66,6709.31,2020-06-22,shop_2
+96,Truffle - Whole Black Peeled,67,1418.65,2020-02-02,
+97,Oysters - Smoked,50,5708.37,2020-12-28,shop_3
+98,Bread - Rosemary Focaccia,92,8736.1,2020-06-05,shop_4
+99,Wine - Zinfandel California 2002,4,5757.0,2020-01-23,shop_4
+100,Mousse - Passion Fruit,55,5468.62,2020-04-05,shop_1
+101,Nantuket Peach Orange,69,6316.32,2020-10-08,shop_1
+102,Bread - Pumpernickel,1,2363.18,2020-07-23,
+103,"Soup - Campbells, Minestrone",34,186.08,2020-01-17,shop_3
+104,"Flour - Corn, Fine",71,2850.55,2020-11-15,shop_4
+105,Peas - Frozen,91,2333.8,2020-03-07,shop_4
+106,Cheese - Brie,,7674.72,2020-01-15,shop_4
+107,"Wine - Mas Chicet Rose, Vintage",30,1241.91,2020-10-16,shop_2
+108,Sage - Fresh,41,5142.94,2020-10-24,shop_1
+109,Cheese - Ermite Bleu,73,7043.71,2020-04-08,shop_1
+110,Dome Lid Clear P92008h,68,967.03,2020-02-13,shop_2
+111,Island Oasis - Lemonade,56,1781.29,2020-04-21,shop_4
+112,Chocolate Bar - Coffee Crisp,,5196.87,2020-08-31,shop_3
+113,"Rum - Dark, Bacardi, Black",57,2501.76,2020-04-12,shop_1
+114,Soupfoamcont12oz 112con,68,2077.09,2020-12-30,shop_4
+115,Poppy Seed,47,7356.21,2020-09-23,shop_2
+116,"Veal - Insides, Grains",70,3286.66,2020-08-07,shop_2
+117,Clam - Cherrystone,37,6154.19,2020-03-17,shop_2
+118,Cornish Hen,22,9884.97,2020-03-17,shop_3
+119,Silicone Paper 16.5x24,6,303.75,2020-03-12,shop_1
+120,Garbag Bags - Black,26,1651.77,2020-10-10,shop_2
+121,Mikes Hard Lemonade,,3382.51,2020-03-06,shop_1
+122,Ginger - Ground,,4980.6,2020-09-03,shop_1
+123,Extract Vanilla Pure,,4839.23,2020-10-14,shop_4
+124,Table Cloth 81x81 White,89,2056.36,2020-07-13,shop_3
+125,Roe - Flying Fish,64,6268.66,2020-04-15,shop_1
+126,Honey - Liquid,61,2259.4,2020-09-04,shop_2
+127,Truffle Shells - Semi - Sweet,93,2685.72,2020-08-26,shop_4
+128,Nantucket - Carrot Orange,93,8465.68,2020-03-26,shop_3
+129,Vinegar - Balsamic,65,999.93,2020-04-25,shop_2
+130,Pasta - Ravioli,47,4124.02,2020-10-19,shop_4
+131,Pastry - Baked Scones - Mini,41,1941.9,2020-09-12,shop_2
+132,Squash - Butternut,93,7025.47,2020-02-10,shop_1
+133,Chips - Potato Jalapeno,58,7359.35,2020-09-23,shop_1
+134,Thermometer Digital,17,3174.89,2020-10-11,shop_3
+135,Steampan - Lid For Half Size,42,8224.18,2020-08-02,shop_2
+136,Sansho Powder,12,7772.07,2020-12-29,shop_2
+137,"Pasta - Lasagna, Dry",60,4992.87,2020-12-06,shop_4
+138,Jolt Cola - Red Eye,43,5061.96,2020-05-14,shop_4
+139,Sprouts - Brussel,93,128.0,2020-07-23,shop_4
+140,Sole - Iqf,8,7656.1,2020-11-20,shop_2
+141,Nescafe - Frothy French Vanilla,21,2469.14,2020-01-26,shop_3
+142,Fiddlehead - Frozen,48,5535.22,2020-01-19,shop_2
+143,Lettuce - Lambs Mash,69,3281.33,2020-01-19,shop_2
+144,Peach - Halves,57,6870.53,2020-03-29,shop_1
+145,Cheese - Mix,93,3511.6,2020-09-07,shop_2
+146,"Lobster - Baby, Boiled",53,7237.15,2020-12-12,shop_1
+147,Bread - Pita,86,3040.79,2020-06-02,shop_3
+148,"Squash - Pattypan, Yellow",89,7233.18,2020-09-07,shop_1
+149,Ginger - Crystalized,81,2321.84,2020-06-21,shop_3
+150,Muffin Mix - Raisin Bran,60,6131.89,2020-11-26,shop_2
+151,Jolt Cola - Electric Blue,91,1088.84,2020-07-29,shop_1
+152,Energy Drink Red Bull,31,6506.87,2020-03-01,shop_3
+153,Soap - Pine Sol Floor Cleaner,6,6159.1,2020-08-29,shop_4
+154,Cleaner - Bleach,30,2294.99,2020-07-19,shop_2
+155,"Pepper - Julienne, Frozen",96,7320.71,2020-12-18,shop_3
+156,The Pop Shoppe - Cream Soda,70,4379.5,2020-05-11,shop_1
+157,Soup - Campbells Mac N Cheese,,9242.51,2020-06-29,shop_4
+158,Wine - Hardys Bankside Shiraz,58,3942.55,2020-11-17,shop_3
+159,Bread - Triangle White,,2137.64,2020-01-08,shop_3
+160,Wine - Black Tower Qr,14,357.75,2020-01-26,shop_4
+161,Strawberries - California,93,2383.51,2021-01-08,shop_4
+162,Carbonated Water - Raspberry,11,3127.83,2020-10-30,shop_1
+163,"Lamb - Whole, Fresh",56,3708.32,2020-04-14,shop_1
+164,Soup - Campbells Mushroom,54,2214.4,2020-08-21,shop_3
+165,Horseradish - Prepared,69,6614.31,2020-03-05,shop_3
+166,Veal - Insides Provini,59,6895.21,2020-08-08,shop_2
+167,Table Cloth 54x72 Colour,18,6289.64,2020-04-02,shop_1
+168,Pork - Sausage Casing,15,3116.17,2020-09-16,shop_3
+169,Red Currants,40,4080.6,2020-09-27,shop_1
+170,Quail - Jumbo,62,6703.12,2020-12-13,shop_1
+171,Wine - Maipo Valle Cabernet,69,6585.67,2020-09-07,shop_2
+172,Wine - Winzer Krems Gruner,50,1068.71,2020-02-24,shop_3
+173,Fondant - Icing,38,3558.15,2020-12-09,shop_2
+174,Spice - Greek 1 Step,10,6827.45,2020-12-17,shop_1
+175,Wine - Trimbach Pinot Blanc,65,339.35,2020-10-04,shop_4
+176,Sobe - Cranberry Grapefruit,52,5575.29,2020-04-21,shop_4
+177,"Veal - Inside Round / Top, Lean",,7934.78,2020-01-12,shop_4
+178,Vegetable - Base,74,5342.94,2020-01-06,shop_1
+179,"Salt - Rock, Course",93,8492.84,2021-01-02,shop_2
+180,Coffee Cup 16oz Foam,98,8768.11,2020-03-21,shop_3
+181,Lettuce - Arugula,8,9989.24,2020-06-30,shop_2
+182,Mince Meat - Filling,,5084.96,2020-08-05,shop_1
+183,Lettuce - Boston Bib,24,5779.57,2021-01-02,shop_3
+184,Wine - Niagara Peninsula Vqa,72,444.21,2020-11-19,shop_3
+185,"Crab - Dungeness, Whole",38,5106.18,2020-03-29,shop_1
+186,"Turkey - Breast, Smoked",55,6937.34,2020-05-29,shop_4
+187,"Water - Mineral, Natural",8,7780.98,2020-09-10,shop_3
+188,Wine - Chateauneuf Du Pape,22,6012.44,2020-08-18,shop_3
+189,Soup - Base Broth Beef,62,8551.8,2020-12-13,shop_1
+190,Pork Loin Bine - In Frenched,100,2018.92,2020-12-02,shop_2
+191,Orange - Blood,26,4556.41,2020-07-22,shop_2
+192,"Pepper - White, Ground",62,3243.73,2020-04-09,shop_3
+193,Puree - Raspberry,42,5169.38,2020-05-27,shop_3
+194,Spice - Montreal Steak Spice,54,6587.35,2020-11-10,shop_2
+195,"Wine - White, Cooking",87,4638.21,2020-09-11,shop_2
+196,"Mushroom - Porcini, Dry",64,3644.16,2020-04-07,shop_3
+197,Port - 74 Brights,57,8376.08,2020-10-13,shop_1
+198,Veal - Slab Bacon,38,5006.03,2020-10-20,shop_4
+199,"Veal - Inside, Choice",41,2107.7,2020-12-07,shop_2
+200,Cranberries - Dry,16,5652.32,2020-09-05,shop_2
+201,Garam Masala Powder,81,3144.19,2020-03-24,shop_1
+202,Bacardi Breezer - Tropical,16,131.97,2020-12-20,shop_2
+203,Pepper - Red Chili,2,4097.9,2020-06-28,shop_1
+204,Wine - Redchard Merritt,38,1556.55,2020-04-24,shop_1
+205,Berry Brulee,49,7898.7,2020-10-04,shop_1
+206,Yeast Dry - Fermipan,14,8394.56,2020-12-03,shop_3
+207,Chocolate Bar - Smarties,23,6792.64,2020-03-01,shop_4
+208,"Pork - Bacon, Sliced",20,9021.67,2020-06-20,shop_2
+209,Salt - Sea,79,9868.73,2020-10-26,shop_4
+210,Cleaner - Bleach,23,419.1,2020-07-12,shop_4
+211,Filling - Mince Meat,26,9733.4,2020-09-04,shop_2
+212,Rabbit - Saddles,84,8853.96,2021-01-01,shop_1
+213,Wine - Sauvignon Blanc Oyster,42,7242.77,2020-01-29,shop_3
+214,Spring Roll Wrappers,76,3389.87,2020-01-24,shop_4
+215,Beer - Sleeman Fine Porter,54,3404.87,2020-10-25,shop_4
+216,Flour - Semolina,1,2872.33,2020-10-17,shop_1
+217,Wine - Bouchard La Vignee Pinot,51,1847.37,2020-05-15,shop_4
+218,"Cake Circle, Paprus",28,2879.77,2020-11-06,shop_4
+219,Molasses - Fancy,54,1216.86,2020-03-15,shop_4
+220,Cookie - Oreo 100x2,88,6291.53,2020-02-18,shop_3
+221,Milk - 2%,,1580.87,2020-12-16,shop_4
+222,"Wine - White, Mosel Gold",,8316.79,2020-05-08,shop_1
+223,Cheese - Colby,26,8752.49,2020-05-01,shop_3
+224,Table Cloth 53x69 White,61,707.96,2020-04-14,shop_4
+225,Chinese Foods - Cantonese,61,370.91,2020-01-23,shop_3
+226,Veal - Loin,63,7733.96,2020-02-03,shop_1
+227,Duck - Fat,88,2982.09,2020-11-30,shop_4
+228,"Yogurt - Cherry, 175 Gr",74,6189.77,2020-02-26,shop_4
+229,Bok Choy - Baby,74,8930.97,2020-09-25,shop_3
+230,Nori Sea Weed - Gold Label,89,8992.33,2020-06-16,shop_3
+231,Puree - Mango,56,6672.28,2020-06-11,shop_4
+232,Tarts Assorted,58,2413.47,2020-04-02,shop_2
+233,Cake - Mini Cheesecake,78,546.34,2020-12-12,shop_1
+234,Broom - Angled,49,9901.49,2020-08-17,shop_3
+235,Bread - White Mini Epi,99,9292.0,2020-06-12,shop_3
+236,Sea Bass - Whole,50,3617.73,2020-05-23,shop_2
+237,Nantucket - Orange Mango Cktl,58,3274.56,2020-06-20,shop_1
+238,Beer - Upper Canada Light,54,7874.61,2020-04-15,shop_4
+239,Sage Ground Wiberg,30,7439.95,2020-04-29,shop_2
+240,Wine - Blue Nun Qualitatswein,24,3446.78,2020-11-14,shop_3
+241,"Veal - Brisket, Provimi,bnls",20,8942.1,2020-12-24,shop_2
+242,"Juice - V8, Tomato",15,4618.01,2020-08-31,shop_3
+243,Cheese - Provolone,23,9007.47,2020-02-15,shop_3
+244,Potatoes - Mini White 3 Oz,76,3665.05,2020-03-09,
+245,"Pasta - Canelloni, Single Serve",92,6875.76,2020-11-19,shop_1
+246,Wine - Chenin Blanc K.w.v.,31,8283.39,2020-03-07,shop_3
+247,Pork - Hock And Feet Attached,5,7364.06,2020-06-01,shop_4
+248,Wine - Riesling Alsace Ac 2001,64,3746.64,2020-02-20,
+249,"Fish - Base, Bouillion",75,1403.92,2020-01-22,shop_4
+250,Evaporated Milk - Skim,55,152.67,2020-05-10,shop_3
+251,Hog / Sausage Casing - Pork,58,4101.29,2020-04-17,shop_1
+252,Glucose,11,4071.89,2020-01-29,shop_1
+253,Sprouts - Onion,39,4761.74,2020-12-17,shop_2
+254,Meldea Green Tea Liquor,4,3275.38,2020-09-28,shop_1
+255,Appetizer - Smoked Salmon / Dill,92,4359.64,2020-06-11,shop_4
+256,Dawn Professionl Pot And Pan,23,8265.92,2020-06-22,shop_3
+257,Veal - Inside,97,7324.07,2020-10-18,shop_1
+258,Wine - Beaujolais Villages,98,2151.62,2020-10-14,
+259,Sauce - Thousand Island,75,1157.6,2020-11-27,shop_2
+260,Dates,86,4877.28,2020-03-12,shop_2
+261,Bread - Raisin,99,1670.72,2020-09-03,shop_4
+262,Flour - Bread,86,9295.78,2020-04-24,shop_3
+263,Beef - Tenderloin Tails,37,8883.28,2020-11-07,shop_4
+264,Cheese - Comte,63,7337.67,2020-11-20,shop_2
+265,Ketchup - Tomato,83,4822.61,2020-01-25,shop_1
+266,"Lentils - Red, Dry",79,3216.79,2020-09-25,shop_2
+267,Bread - Assorted Rolls,18,5707.42,2020-03-19,shop_4
+268,Bread - Focaccia Quarter,82,7930.03,2020-12-02,shop_4
+269,Icecream Bar - Del Monte,89,8904.72,2020-02-29,shop_4
+270,Bag - Regular Kraft 20 Lb,80,1964.26,2020-04-07,shop_4
+271,"Wine - White, Concha Y Toro",,2153.4,2020-10-12,shop_4
+272,"Brandy - Orange, Mc Guiness",17,9853.36,2020-05-20,shop_2
+273,Longos - Grilled Chicken With,90,4557.23,2020-12-23,shop_2
+274,Tea - Green,98,1074.85,2020-09-11,shop_2
+275,Milkettes - 2%,7,5158.72,2020-03-24,shop_2
+276,"Yeast - Fresh, Fleischman",40,96.26,2020-08-30,shop_1
+277,"Lettuce - Mini Greens, Whole",96,2880.15,2020-07-09,shop_2
+278,Wine - Rosso Toscano Igt,72,5211.59,2020-06-12,shop_2
+279,Tomato Puree,92,3827.84,2020-09-13,shop_3
+280,Cream Of Tartar,39,4948.8,2020-10-16,shop_4
+281,Steam Pan Full Lid,78,5176.34,2020-09-08,shop_3
+282,Butter Ripple - Phillips,43,5911.39,2020-08-14,shop_3
+283,Bols Melon Liqueur,76,756.41,2020-11-20,shop_4
+284,Salt And Pepper Mix - Black,1,934.33,2020-09-18,shop_4
+285,Lamb - Sausage Casings,84,1725.22,2020-10-19,shop_3
+286,Wine - Maipo Valle Cabernet,62,4623.24,2020-08-15,shop_3
+287,Beans - French,79,7959.31,2020-12-29,shop_2
+288,Pasta - Fusili Tri - Coloured,10,3287.0,2020-04-18,shop_3
+289,"Wine - Red, Concha Y Toro",90,181.38,2020-09-21,shop_1
+290,Savory,93,3276.08,2020-04-18,
+291,Plastic Wrap,18,1691.38,2020-07-31,shop_3
+292,Sansho Powder,58,2759.6,2020-12-05,shop_1
+293,Sauce - Hp,34,3925.75,2020-12-01,shop_3
+294,"Wine - Harrow Estates, Vidal",96,2678.89,2020-09-27,shop_1
+295,Appetizer - Shrimp Puff,56,7642.59,2020-12-04,shop_3
+296,"Ham - Smoked, Bone - In",54,2792.58,2020-04-04,shop_4
+297,Cleaner - Pine Sol,41,4544.03,2020-01-18,shop_2
+298,Pur Source,34,7608.93,2020-12-30,shop_3
+299,Leeks - Large,26,382.64,2020-12-04,shop_1
+300,Okra,20,5123.21,2020-01-28,shop_4
+301,Eel - Smoked,36,7510.55,2020-01-08,shop_4
+302,Shrimp - Black Tiger 8 - 12,12,2652.45,2020-09-30,shop_3
+303,Beef Dry Aged Tenderloin Aaa,50,5263.05,2020-12-05,shop_2
+304,Wine - Jackson Triggs Okonagan,,2632.09,2020-12-14,shop_4
+305,Pear - Prickly,88,6001.62,2021-01-07,
+306,Pepper Squash,61,5218.07,2020-12-02,shop_1
+307,Beer - Sleemans Honey Brown,67,3642.26,2020-11-20,shop_1
+308,Soupfoamcont12oz 112con,77,6308.38,2020-08-04,shop_2
+309,Nut - Pumpkin Seeds,,9437.58,2020-08-20,shop_1
+310,"Pepper - Paprika, Hungarian",57,7948.54,2020-02-08,shop_1
+311,Cinnamon Rolls,96,8718.28,2020-03-03,shop_4
+312,Cake - Mini Potato Pancake,28,4393.14,2020-01-12,shop_2
+313,Pepper - Pablano,78,803.43,2020-03-19,shop_1
+314,Bread Base - Gold Formel,17,9329.45,2020-05-02,shop_4
+315,Nantuket Peach Orange,52,6386.76,2020-11-11,shop_3
+316,Eggplant Italian,94,2150.07,2020-08-23,shop_1
+317,"Lamb - Racks, Frenched",89,7098.73,2020-10-14,shop_3
+318,Pastry - French Mini Assorted,43,1627.24,2020-03-28,shop_3
+319,Tea - Orange Pekoe,16,6469.53,2020-08-23,shop_1
+320,Brandy - Bar,,6538.56,2020-06-13,shop_4
+321,Paper Towel Touchless,52,6052.97,2020-07-11,shop_2
+322,Loquat,16,9990.18,2020-12-07,shop_3
+323,Grapefruit - Pink,11,7659.02,2020-06-23,shop_3
+324,Wine - Wyndham Estate Bin 777,23,9184.34,2020-07-09,shop_1
+325,Venison - Liver,75,4891.83,2020-10-04,shop_2
+326,Lotus Rootlets - Canned,52,1609.73,2020-11-16,shop_1
+327,Sambuca Cream,62,1617.1,2020-12-27,shop_3
+328,"Beef - Bones, Cut - Up",76,403.71,2020-07-25,shop_3
+329,Bagelers,3,6159.44,2020-04-26,shop_4
+330,Bread - Frozen Basket Variety,10,3780.78,2020-10-30,shop_4
+331,Table Cloth 72x144 White,25,1671.64,2020-01-14,shop_4
+332,Beef Cheek Fresh,53,9503.69,2020-05-28,
+333,Cheese - Comtomme,13,3026.52,2020-02-22,shop_3
+334,Potatoes - Peeled,,6502.87,2020-07-17,shop_3
+335,Orange - Tangerine,6,8176.98,2020-04-18,shop_4
+336,"Cheese - Cheddar, Mild",43,4941.57,2020-11-20,shop_1
+337,Kumquat,32,280.82,2020-01-28,shop_4
+338,"Cheese - Woolwich Goat, Log",10,64.72,2020-03-08,shop_4
+339,"Cheese - Manchego, Spanish",41,3011.91,2020-10-17,shop_3
+340,Beef - Top Sirloin - Aaa,91,6509.16,2020-01-13,shop_1
+341,"Coconut - Shredded, Unsweet",39,2670.79,2020-11-05,shop_1
+342,Syrup - Monin - Blue Curacao,89,9300.89,2020-07-09,shop_1
+343,"Red Snapper - Fillet, Skin On",16,7163.7,2020-10-05,shop_3
+344,Cheese - Mascarpone,57,2466.35,2020-10-30,shop_1
+345,Coffee - Frthy Coffee Crisp,100,6869.69,2020-10-13,shop_3
+346,Hersey Shakes,60,805.12,2020-11-30,shop_1
+347,Onions - Red,67,8564.13,2020-12-29,shop_1
+348,Butcher Twine 4r,9,7444.57,2020-02-11,shop_4
+349,Truffle Cups - White Paper,91,3411.85,2020-03-14,shop_4
+350,Vol Au Vents,44,9884.37,2020-10-08,shop_2
+351,"Tart Shells - Barquettes, Savory",32,5766.11,2020-10-17,shop_4
+352,Chicken - Whole Roasting,68,9006.54,2020-09-09,shop_3
+353,Tea - Jasmin Green,,2755.13,2020-11-07,shop_4
+354,Bread - Italian Corn Meal Poly,2,9184.04,2020-05-10,shop_3
+355,Tart - Butter Plain Squares,69,6062.44,2020-02-15,shop_4
+356,Oneshot Automatic Soap System,86,4080.84,2020-03-29,shop_4
+357,Pasta - Canelloni,29,8271.23,2020-04-26,shop_2
+358,"Crab - Claws, 26 - 30",94,5028.31,2020-01-20,shop_4
+359,Bread - Raisin Walnut Pull,99,710.27,2020-01-21,shop_3
+360,Cake - Mini Cheesecake,2,8356.66,2020-07-20,shop_2
+361,"Salsify, Organic",27,9678.43,2020-03-23,shop_1
+362,Scallops 60/80 Iqf,53,1528.52,2020-02-13,shop_2
+363,Tea - Honey Green Tea,62,833.44,2020-04-17,shop_3
+364,Cake - Sheet Strawberry,52,198.85,2020-08-25,shop_2
+365,Blackberries,96,4624.38,2020-08-06,shop_3
+366,Gooseberry,,3845.8,2020-11-11,shop_1
+367,"Wine - Red, Concha Y Toro",92,8743.42,2020-04-05,shop_2
+368,Bread - Sour Batard,69,8191.21,2020-12-18,shop_2
+369,"Yeast - Fresh, Fleischman",5,6796.46,2020-05-28,shop_2
+370,Gatorade - Fruit Punch,85,2789.38,2020-10-01,shop_4
+371,Pork Casing,7,593.07,2020-12-11,shop_4
+372,Skirt - 29 Foot,57,1060.78,2020-11-29,shop_2
+373,Juice - Orange,17,8468.9,2020-03-05,shop_4
+374,Veal - Heart,47,424.21,2020-03-14,shop_4
+375,Pork - Bones,89,8538.87,2021-01-05,shop_3
+376,Bread - Multigrain,35,5573.56,2020-04-15,shop_4
+377,Tuna - Loin,56,4012.02,2020-08-29,shop_2
+378,Coffee Guatemala Dark,62,7005.7,2020-10-31,shop_3
+379,Chocolate Bar - Reese Pieces,32,5722.78,2020-12-04,shop_2
+380,Clams - Canned,,5814.37,2021-01-08,
+381,Worcestershire Sauce,25,4693.68,2020-10-26,shop_1
+382,Cookies Oatmeal Raisin,33,2288.79,2020-02-24,shop_2
+383,Goat - Leg,7,9679.65,2020-09-07,shop_4
+384,Bread - 10 Grain Parisian,62,2647.12,2020-12-08,shop_4
+385,Tofu - Soft,28,1655.49,2020-12-30,
+386,Fork - Plastic,4,1539.64,2020-04-14,shop_1
+387,Ice Cream Bar - Rolo Cone,26,8158.83,2020-08-04,shop_4
+388,Sauce - Chili,7,7905.27,2020-01-17,shop_1
+389,Lobster - Tail 6 Oz,42,544.09,2020-10-23,shop_2
+390,Amaretto,30,5811.45,2020-05-04,
+391,Sage - Fresh,66,2465.35,2020-02-05,shop_1
+392,Steam Pan Full Lid,77,4753.09,2020-05-19,shop_3
+393,Beer - Mcauslan Apricot,2,6338.16,2020-11-10,shop_4
+394,Liqueur - Melon,61,3236.55,2020-10-05,shop_1
+395,Longos - Burritos,58,6392.58,2020-01-08,shop_3
+396,Puree - Mango,81,3981.19,2020-12-23,shop_2
+397,Longos - Chicken Cordon Bleu,81,818.19,2020-08-27,shop_1
+398,"Pasta - Linguini, Dry",38,2429.73,2020-08-08,shop_1
+399,Wine - Ruffino Chianti,39,6528.76,2020-04-10,shop_2
+400,Sardines,100,7081.87,2020-02-24,shop_1
+401,Island Oasis - Banana Daiquiri,76,5550.48,2020-12-07,shop_3
+402,Jicama,78,5985.99,2020-12-15,shop_2
+403,"Tomatoes - Cherry, Yellow",97,7711.5,2020-06-24,shop_4
+404,Parsnip,32,6689.53,2020-08-03,shop_2
+405,Cookie Chocolate Chip With,73,2723.71,2020-08-17,shop_4
+406,"Artichoke - Bottom, Canned",80,6759.36,2020-10-05,shop_2
+407,Mcgillicuddy Vanilla Schnap,28,8747.23,2020-09-06,shop_1
+408,"Juice - Cranberry, 341 Ml",44,4307.55,2020-11-29,shop_4
+409,Lemon Balm - Fresh,81,6320.73,2020-08-05,shop_2
+410,Wine - Prem Select Charddonany,36,8663.77,2020-11-03,shop_2
+411,Spice - Montreal Steak Spice,29,3380.05,2020-09-30,shop_2
+412,Sprouts - Brussel,77,9661.39,2020-11-28,shop_1
+413,Lambcasing,81,523.29,2020-06-29,shop_4
+414,Muffin Puck Ww Carrot,68,8178.05,2020-09-02,shop_4
+415,Bread - Granary Small Pull,33,3667.64,2020-10-12,shop_2
+416,Water - San Pellegrino,58,7635.19,2020-01-09,shop_1
+417,"Wine - Magnotta, Merlot Sr Vqa",83,8406.07,2020-01-22,shop_4
+418,Lamb Leg - Bone - In Nz,19,9062.95,2020-02-10,shop_1
+419,Sauce - Alfredo,95,1041.26,2020-07-24,shop_2
+420,Beef - Shank,,8838.81,2020-03-29,shop_4
+421,"Lamb - Pieces, Diced",34,3161.38,2020-08-22,shop_2
+422,"Cookies - Oreo, 4 Pack",32,9019.78,2020-06-28,shop_3
+423,Paper - Brown Paper Mini Cups,77,943.31,2020-12-24,shop_1
+424,Crawfish,9,2914.48,2020-09-26,shop_3
+425,Chicken - Bones,47,4679.51,2020-03-21,shop_4
+426,Longos - Grilled Veg Sandwiches,75,3898.83,2020-01-29,shop_4
+427,Wine - Toasted Head,15,4420.99,2020-04-29,shop_3
+428,Beef - Ground Lean Fresh,89,798.71,2020-10-17,shop_2
+429,Bread - Italian Roll With Herbs,,911.48,2020-08-26,shop_4
+430,V8 Splash Strawberry Kiwi,15,6.57,2020-08-29,shop_3
+431,Propel Sport Drink,79,1643.24,2020-01-08,shop_3
+432,Venison - Racks Frenched,55,2302.25,2020-05-28,shop_4
+433,Mustard - Individual Pkg,91,3944.47,2020-10-13,shop_3
+434,Cheese - Goat With Herbs,78,1474.46,2020-07-07,shop_2
+435,Food Colouring - Blue,86,9648.04,2020-02-22,shop_1
+436,Spice - Onion Powder Granulated,15,7383.21,2020-06-04,shop_3
+437,"Yogurt - Cherry, 175 Gr",22,7249.78,2020-11-28,shop_4
+438,Butter Ripple - Phillips,67,3057.14,2020-09-01,shop_4
+439,Beef - Ox Tongue,97,4836.64,2020-05-02,shop_1
+440,Soup Campbells - Tomato Bisque,37,6398.23,2020-01-26,shop_3
+441,"Mushroom - Shitake, Dry",61,4658.75,2020-04-29,shop_1
+442,Lamb - Sausage Casings,28,3093.63,2020-10-06,shop_2
+443,"Pepsi, 355 Ml",33,1032.85,2020-07-10,shop_2
+444,Milkettes - 2%,19,9295.09,2020-07-17,shop_1
+445,Island Oasis - Sweet And Sour Mix,96,3200.28,2020-04-09,shop_4
+446,Wasabi Powder,100,9466.86,2020-04-21,shop_3
+447,Campari,49,152.67,2020-08-20,
+448,Garam Masala Powder,54,4199.64,2020-06-04,shop_3
+449,Wine - Champagne Brut Veuve,57,195.22,2020-04-21,shop_1
+450,Squid U5 - Thailand,51,8324.63,2020-07-01,shop_3
+451,Flavouring Vanilla Artificial,32,1910.29,2020-07-12,shop_3
+452,Lobster - Base,17,9692.75,2020-09-29,shop_2
+453,Scallops 60/80 Iqf,44,3191.4,2020-06-08,shop_3
+454,Tea - Camomele,42,75.38,2020-05-10,shop_4
+455,Lettuce - Boston Bib,65,6970.46,2020-12-02,shop_3
+456,Longan,50,7239.63,2020-02-07,shop_1
+457,Appetizer - Veg Assortment,71,7357.56,2020-09-02,shop_4
+458,Clam Nectar,,9086.51,2020-03-27,shop_1
+459,Coffee - Hazelnut Cream,65,8052.38,2020-09-07,shop_1
+460,"Beef - Baby, Liver",46,187.17,2020-09-11,shop_3
+461,Shrimp - 150 - 250,14,4278.3,2020-09-06,shop_2
+462,Turnip - White,9,4558.15,2020-12-03,shop_3
+463,Smoked Paprika,98,3072.24,2020-03-18,shop_1
+464,Soup - Campbells Broccoli,11,9588.74,2020-11-07,shop_3
+465,Cookie Dough - Peanut Butter,100,7605.38,2020-08-03,shop_4
+466,Longos - Chicken Curried,12,897.54,2020-08-05,shop_4
+467,"Pasta - Orzo, Dry",11,2631.73,2020-02-12,shop_1
+468,Oysters - Smoked,43,9336.19,2020-06-11,shop_2
+469,Lettuce Romaine Chopped,89,8729.64,2020-03-13,shop_2
+470,Appetizer - Cheese Bites,12,345.76,2020-04-06,shop_2
+471,Pastry - Cherry Danish - Mini,12,2174.04,2020-11-04,shop_2
+472,Kale - Red,19,6434.52,2020-03-04,shop_3
+473,"Sauce - Bernaise, Mix",,1258.87,2020-09-02,shop_4
+474,Veal - Ground,28,2994.19,2020-06-27,shop_3
+475,Apples - Sliced / Wedge,12,2978.87,2020-07-17,shop_4
+476,"Soup - Cream Of Broccoli, Dry",36,403.66,2020-09-01,shop_2
+477,"Beef - Ox Tongue, Pickled",68,3544.78,2020-09-14,shop_4
+478,Blue Curacao - Marie Brizard,37,5782.59,2020-03-16,shop_1
+479,Tea - Jasmin Green,16,3283.33,2020-04-11,shop_4
+480,Chinese Foods - Plain Fried Rice,94,8178.03,2020-08-01,shop_2
+481,Mushroom - Chanterelle Frozen,39,4412.63,2020-06-07,shop_2
+482,Wine - Valpolicella Masi,,9985.53,2020-10-31,shop_2
+483,Clams - Canned,82,1795.6,2020-07-09,shop_4
+484,Bouillion - Fish,43,2476.03,2020-07-02,shop_2
+485,Pastry - Raisin Muffin - Mini,85,2598.8,2020-01-23,shop_1
+486,"Cod - Salted, Boneless",61,5071.17,2020-10-25,shop_1
+487,Pepper - Cayenne,27,9434.62,2020-04-29,shop_3
+488,Chicken - Livers,71,3622.74,2020-05-15,shop_4
+489,Lamb Tenderloin Nz Fr,98,6701.5,2020-06-07,shop_4
+490,Everfresh Products,45,6987.57,2020-09-14,shop_2
+491,Chocolate Bar - Reese Pieces,78,903.52,2020-02-16,shop_1
+492,Pork - Side Ribs,,7937.35,2020-12-28,shop_3
+493,Bay Leaf Fresh,7,2180.56,2020-03-25,shop_2
+494,"Red Snapper - Fresh, Whole",74,4793.83,2020-06-01,shop_1
+495,Chips - Doritos,19,5347.84,2020-04-02,shop_3
+496,"Rum - Spiced, Captain Morgan",32,4247.28,2020-03-09,shop_2
+497,Lettuce - Arugula,95,1513.88,2020-03-05,shop_2
+498,Tea - Orange Pekoe,61,3035.27,2020-04-20,shop_1
+499,Pepper - Chilli Seeds Mild,78,790.37,2020-09-11,shop_3
+500,Beans - Kidney White,76,5559.62,2020-06-19,shop_1
+501,Yogurt - Plain,70,4834.55,2020-09-29,shop_2
+502,Container - Foam Dixie 12 Oz,37,1344.91,2020-12-18,shop_4
+503,Mince Meat - Filling,20,7453.18,2020-12-02,shop_3
+504,"Bread - Dark Rye, Loaf",19,8227.13,2020-05-07,shop_3
+505,Salami - Genova,96,8314.33,2020-08-15,shop_3
+506,Broom Handle,74,3025.39,2020-10-11,shop_3
+507,Five Alive Citrus,68,7122.65,2020-07-24,shop_3
+508,Beer - Moosehead,11,8563.8,2020-09-04,shop_4
+509,Ice Cream Bar - Hagen Daz,42,9431.86,2020-07-13,shop_2
+510,Fuji Apples,63,2153.12,2020-10-15,shop_1
+511,Aspic - Clear,8,3458.98,2020-01-29,shop_2
+512,Salt - Kosher,92,6726.47,2021-01-04,shop_1
+513,"Sprite, Diet - 355ml",17,3281.71,2020-08-13,shop_3
+514,"Sugar - Brown, Individual",,3983.59,2020-11-14,shop_4
+515,"Chicken - Diced, Cooked",66,5492.87,2020-06-25,shop_2
+516,Compound - Rum,94,1321.81,2021-01-06,shop_2
+517,Oven Mitt - 13 Inch,66,9025.54,2020-08-16,shop_3
+518,Squid - Breaded,7,7403.11,2020-04-02,shop_1
+519,Dasheen,32,9427.79,2020-05-02,
+520,"Bread - Sticks, Thin, Plain",28,4541.6,2020-09-24,shop_2
+521,Sunflower Seed Raw,19,7101.43,2020-12-16,shop_3
+522,Wine - Alsace Gewurztraminer,98,8032.84,2020-05-26,shop_1
+523,"Soup - Clam Chowder, Dry Mix",59,3759.05,2020-05-13,shop_1
+524,"Asparagus - Green, Fresh",10,6730.46,2020-07-18,shop_2
+525,"Noodles - Cellophane, Thin",94,5158.06,2020-07-15,shop_1
+526,Chocolate - White,70,5453.91,2020-01-30,shop_2
+527,Chips - Assorted,8,5239.89,2020-07-18,shop_4
+528,Carrots - Jumbo,40,2593.02,2020-08-24,shop_3
+529,Wine - Rubyport,20,4786.65,2020-03-12,shop_2
+530,Wine - Barolo Fontanafredda,72,4086.87,2020-11-11,shop_3
+531,Mahi Mahi,70,7886.06,2020-07-19,shop_2
+532,Fudge - Chocolate Fudge,22,5013.07,2021-01-08,shop_2
+533,Curry Paste - Green Masala,42,428.01,2020-08-19,shop_1
+534,Pork - Belly Fresh,,1595.35,2020-12-30,shop_3
+535,Tray - 12in Rnd Blk,92,1969.76,2020-07-29,shop_2
+536,Pastry - Baked Cinnamon Stick,47,8020.08,2020-04-27,shop_2
+537,Tea - Camomele,5,2463.8,2020-11-23,
+538,Cookie Dough - Oatmeal Rasin,13,6477.16,2020-07-30,shop_1
+539,Parsnip,41,4611.62,2020-04-13,shop_3
+540,Duck - Breast,48,1952.94,2020-10-19,shop_4
+541,Wooden Mop Handle,72,9909.46,2020-02-14,shop_3
+542,Filo Dough,6,7779.09,2020-11-17,shop_1
+543,Roe - Flying Fish,71,3797.8,2020-05-18,shop_4
+544,Appetizer - Escargot Puff,87,4402.41,2020-04-05,shop_1
+545,Pepper - Jalapeno,12,9844.89,2020-08-24,shop_4
+546,Crab Brie In Phyllo,22,5926.09,2020-07-30,shop_1
+547,French Kiss Vanilla,14,9439.81,2020-09-04,shop_3
+548,Cake Slab,69,4958.91,2020-04-07,shop_4
+549,Nut - Pumpkin Seeds,27,2024.41,2020-01-20,shop_2
+550,"Marjoram - Dried, Rubbed",27,6351.6,2020-06-20,
+551,"Wine - Red, Cooking",79,1263.31,2020-04-17,shop_2
+552,Wine - Cave Springs Dry Riesling,17,7658.13,2020-12-08,shop_2
+553,"Rice Pilaf, Dry,package",50,7231.29,2020-11-17,shop_2
+554,Ham Black Forest,50,4876.18,2020-12-31,shop_1
+555,Steampan - Lid For Half Size,10,3575.09,2020-04-30,shop_3
+556,Soup Campbells Beef With Veg,84,2110.7,2020-11-11,shop_4
+557,Muffin - Blueberry Individual,22,3366.07,2020-01-19,shop_1
+558,Bread - Granary Small Pull,49,7883.9,2020-06-08,shop_3
+559,Apple - Northern Spy,76,6025.76,2020-04-23,shop_4
+560,Bread Bowl Plain,49,8699.26,2020-07-16,shop_3
+561,Cinnamon - Ground,70,5697.43,2020-09-10,shop_1
+562,Onions - Spanish,22,9646.4,2020-12-24,shop_3
+563,Bols Melon Liqueur,93,6085.27,2020-02-14,shop_1
+564,Chip - Potato Dill Pickle,62,4678.11,2020-09-09,shop_4
+565,Marjoram - Fresh,,7322.64,2020-08-07,shop_4
+566,Gatorade - Orange,7,4973.6,2020-11-15,shop_1
+567,"Split Peas - Green, Dry",100,3854.31,2020-10-20,
+568,Sole - Iqf,26,5322.57,2020-09-03,shop_2
+569,Beef Flat Iron Steak,,3257.6,2020-12-07,
+570,Sauce - Oyster,33,1395.65,2020-05-31,shop_1
+571,Soup - Campbells Mac N Cheese,99,2962.78,2020-07-23,shop_3
+572,Tomatoes - Grape,64,3887.7,2020-01-11,shop_1
+573,Bread - Burger,78,4735.66,2021-01-01,shop_4
+574,Flavouring - Rum,81,4744.9,2020-02-18,shop_1
+575,Miso Paste White,43,9947.31,2020-12-19,shop_2
+576,Island Oasis - Strawberry,69,5175.51,2020-05-15,shop_2
+577,Russian Prince,56,1549.28,2020-01-09,shop_4
+578,Filo Dough,45,6163.98,2020-10-06,shop_3
+579,Lamb - Ground,100,7655.23,2020-01-20,shop_4
+580,"Wine - White, French Cross",38,151.85,2020-04-19,shop_2
+581,"Quail - Whole, Boneless",48,5186.86,2020-08-31,shop_1
+582,Rum - Mount Gay Eclipes,75,5622.9,2020-10-29,shop_3
+583,"Cherries - Maraschino,jar",89,3396.51,2020-10-17,shop_1
+584,Horseradish - Prepared,26,8384.28,2020-11-17,shop_4
+585,"Veal - Tenderloin, Untrimmed",21,20.72,2020-03-24,shop_1
+586,Pancetta,26,562.28,2020-08-14,shop_3
+587,Sauce - Cranberry,88,3172.75,2020-04-26,shop_3
+588,Wine - Champagne Brut Veuve,37,2766.94,2020-10-01,shop_1
+589,Easy Off Oven Cleaner,43,7574.91,2020-06-17,shop_1
+590,Blouse / Shirt / Sweater,67,3926.72,2020-04-27,shop_2
+591,Island Oasis - Lemonade,70,6375.59,2020-09-09,shop_3
+592,Lemon Balm - Fresh,9,4211.63,2020-02-21,shop_2
+593,"Syrup - Monin, Amaretta",63,3144.84,2020-05-22,shop_4
+594,Bread - Rye,36,6496.91,2020-08-16,shop_4
+595,Nantucket Apple Juice,26,3114.23,2020-02-16,shop_4
+596,Soup - Chicken And Wild Rice,53,4540.45,2020-03-25,shop_2
+597,Sausage - Chorizo,48,466.13,2020-10-19,shop_1
+598,Corn Meal,84,4284.06,2020-04-25,shop_2
+599,Crackers - Soda / Saltins,42,2833.87,2020-05-14,shop_3
+600,Orange Roughy 4/6 Oz,36,4881.02,2020-04-08,shop_3
+601,Chocolate Bar - Oh Henry,41,888.27,2020-11-10,shop_2
+602,Cheese - Feta,55,7389.5,2020-09-01,shop_1
+603,Lettuce - Lolla Rosa,33,6910.42,2020-05-15,shop_3
+604,"Pasta - Cannelloni, Sheets, Fresh",8,2726.05,2020-05-14,shop_4
+605,"Wine - Mas Chicet Rose, Vintage",55,8779.81,2020-11-30,shop_4
+606,"Appetizer - Mini Egg Roll, Shrimp",42,2106.01,2020-08-08,shop_2
+607,Yoghurt Tubes,94,2894.73,2020-01-20,shop_4
+608,Parsley - Fresh,89,3459.77,2020-02-29,shop_4
+609,Longos - Penne With Pesto,67,1943.38,2020-12-06,shop_3
+610,Chicken - Tenderloin,78,961.13,2020-10-06,shop_3
+611,Cake - Mini Cheesecake,57,9399.05,2020-07-29,shop_2
+612,Cheese - Augre Des Champs,72,8770.83,2020-10-24,shop_3
+613,Wine - Jaboulet Cotes Du Rhone,21,1091.48,2020-05-04,shop_2
+614,Cookies - Assorted,53,839.78,2020-02-09,shop_1
+615,"Wine - Magnotta, White",41,2791.38,2020-01-19,shop_2
+616,"Bread - Roll, Soft White Round",59,9880.11,2020-11-18,shop_1
+617,Canada Dry,58,8035.9,2020-05-14,shop_4
+618,Pastry - Baked Cinnamon Stick,77,2659.69,2020-03-11,shop_4
+619,"Oregano - Dry, Rubbed",33,1148.21,2020-12-24,shop_2
+620,Worcestershire Sauce,88,3264.66,2020-06-12,shop_2
+621,Peach - Halves,82,140.92,2020-08-24,shop_4
+622,Wine - Jackson Triggs Okonagan,89,459.44,2020-10-01,shop_2
+623,Cumin - Whole,58,6384.5,2020-01-26,shop_4
+624,Sugar - Fine,80,4297.37,2020-07-21,shop_4
+625,Red Pepper Paste,48,2550.82,2020-05-29,shop_2
+626,Wine - Tribal Sauvignon,56,3676.76,2020-06-02,shop_1
+627,"Lemonade - Kiwi, 591 Ml",100,4124.54,2020-08-14,shop_1
+628,Ecolab - Mikroklene 4/4 L,37,19.37,2020-04-15,shop_3
+629,Assorted Desserts,1,4470.12,2020-03-27,shop_3
+630,"Wine - White, Cooking",96,1288.99,2020-12-29,shop_4
+631,Wine - Chateau Bonnet,4,7096.86,2020-10-19,shop_2
+632,External Supplier,10,3925.93,2020-08-24,shop_1
+633,Wine - Muscadet Sur Lie,73,3217.28,2020-09-19,shop_4
+634,Apple - Northern Spy,55,7136.41,2020-06-29,shop_4
+635,Squeeze Bottle,44,672.97,2020-12-07,shop_1
+636,Table Cloth 54x72 Colour,63,5766.24,2020-04-14,shop_1
+637,Cookies - Englishbay Chochip,100,1606.13,2021-01-06,shop_2
+638,"Beans - Black Bean, Dry",,6894.32,2020-04-11,shop_2
+639,Muffin - Mix - Strawberry Rhubarb,39,3633.05,2020-10-22,shop_2
+640,"Tomatoes - Plum, Canned",94,5293.95,2020-09-20,shop_3
+641,Scallops - In Shell,,2836.08,2021-01-04,shop_2
+642,Coffee - Hazelnut Cream,47,4964.28,2020-01-22,shop_1
+643,"Juice - Orange, Concentrate",74,3398.47,2020-07-23,shop_3
+644,Creme De Cacao White,72,5540.38,2020-11-16,shop_4
+645,Nantucket Orange Juice,73,5529.19,2020-01-07,shop_3
+646,Butter Ripple - Phillips,42,3313.67,2020-09-01,shop_2
+647,"Napkin - Dinner, White",2,3211.91,2020-08-31,shop_2
+648,Longos - Assorted Sandwich,66,443.68,2020-04-11,shop_3
+649,"Turkey - Whole, Fresh",39,4961.72,2020-01-25,shop_4
+650,"Pasta - Fusili, Dry",86,7535.66,2020-06-28,shop_1
+651,Bread - Triangle White,94,6675.72,2020-01-12,shop_2
+652,Shrimp - 150 - 250,34,2999.39,2020-11-27,shop_1
+653,Mousse - Passion Fruit,74,2248.5,2020-03-13,shop_4
+654,"Coffee - Beans, Whole",79,630.85,2020-07-09,shop_1
+655,Irish Cream - Butterscotch,59,8194.9,2021-01-07,shop_1
+656,Vinegar - Tarragon,86,2662.36,2020-07-05,shop_1
+657,Versatainer Nc - 888,8,5588.3,2020-07-03,shop_3
+658,Foil - Round Foil,89,3588.09,2020-11-30,shop_3
+659,"Juice - Orange, Concentrate",22,3405.14,2020-08-08,shop_3
+660,"Soup - Campbells, Minestrone",30,7808.01,2020-10-28,shop_3
+661,Longos - Burritos,31,9601.19,2020-02-24,shop_3
+662,"Liners - Banana, Paper",22,4815.98,2020-06-22,shop_4
+663,Pastry - Plain Baked Croissant,64,2902.43,2020-11-13,shop_4
+664,Cheese - Roquefort Pappillon,59,7275.16,2020-11-09,shop_1
+665,Soup Bowl Clear 8oz92008,8,3163.95,2020-04-27,shop_3
+666,Bread - Multigrain,8,5210.77,2020-03-27,
+667,Wine - Bouchard La Vignee Pinot,87,3679.58,2020-05-28,shop_1
+668,"Lamb - Whole, Fresh",4,8371.91,2020-09-28,shop_3
+669,Wine - Chenin Blanc K.w.v.,48,1559.09,2020-01-12,shop_2
+670,"Shrimp - 16/20, Iqf, Shell On",73,1169.19,2020-09-04,shop_4
+671,Calypso - Lemonade,35,5374.96,2020-07-14,shop_2
+672,Myers Planters Punch,31,9018.79,2020-07-04,
+673,"Nut - Pistachio, Shelled",,7558.53,2020-07-11,shop_1
+674,Muffin Mix - Raisin Bran,53,9196.45,2020-10-05,shop_2
+675,Flour - Teff,82,9012.17,2020-04-20,shop_2
+676,Lamb - Bones,6,9811.97,2020-03-13,shop_2
+677,Remy Red Berry Infusion,96,7011.82,2020-02-23,shop_4
+678,Cabbage - Nappa,57,2637.11,2020-02-25,shop_4
+679,Cheese - Bakers Cream Cheese,58,8862.7,2020-05-13,shop_4
+680,Vaccum Bag 10x13,36,3439.97,2020-06-25,shop_2
+681,Steam Pan - Half Size Deep,82,2932.25,2020-12-09,shop_1
+682,Kellogs All Bran Bars,58,4153.69,2020-10-25,shop_1
+683,Sausage - Meat,76,9614.59,2020-05-03,shop_1
+684,Ecolab Crystal Fusion,40,557.75,2020-12-09,shop_4
+685,Wine - Cousino Macul Antiguas,91,3596.74,2020-04-07,shop_4
+686,"Wine - White, Colubia Cresh",98,8733.97,2020-12-15,shop_4
+687,Orange - Tangerine,84,6768.75,2020-08-29,shop_3
+688,Wine - Beaujolais Villages,10,9999.2,2020-01-23,shop_4
+689,Pepper - Sorrano,52,9537.74,2020-11-05,shop_3
+690,Gelatine Powder,31,5195.53,2020-07-19,shop_3
+691,Basil - Seedlings Cookstown,88,2717.35,2020-11-12,
+692,Sunflower Seed Raw,96,7931.63,2020-11-01,shop_4
+693,Lettuce - Boston Bib - Organic,51,9173.0,2020-10-13,shop_4
+694,Potatoes - Pei 10 Oz,17,6968.25,2020-04-27,shop_3
+695,Pasta - Ravioli,75,6947.88,2020-11-09,shop_1
+696,Skirt - 29 Foot,32,3698.07,2020-03-22,shop_1
+697,Wine - Sicilia Igt Nero Avola,92,9400.58,2020-06-30,shop_2
+698,Ice Cream - Fudge Bars,67,1715.5,2020-08-24,shop_1
+699,Spice - Pepper Portions,97,2836.98,2020-10-27,shop_3
+700,Pineapple - Regular,35,1366.95,2020-08-31,shop_4
+701,Worcestershire Sauce,65,4345.47,2020-09-26,shop_3
+702,Waffle Stix,42,8106.28,2020-12-17,shop_4
+703,Apple - Custard,35,6823.24,2020-06-11,shop_1
+704,Onions - Green,48,4460.23,2020-10-28,shop_4
+705,Strawberries - California,9,3312.58,2020-09-26,shop_3
+706,Napkin White,95,4824.03,2020-05-21,shop_4
+707,Corn - Mini,36,6219.78,2020-11-24,shop_2
+708,Soho Lychee Liqueur,92,9761.24,2020-06-26,shop_3
+709,"Sprite, Diet - 355ml",28,8161.85,2020-02-23,shop_1
+710,Carbonated Water - Lemon Lime,17,7695.42,2020-07-09,shop_2
+711,Oats Large Flake,35,3236.6,2020-07-10,shop_4
+712,Okra,1,8244.04,2020-08-18,shop_4
+713,Aromat Spice / Seasoning,10,1350.33,2020-08-19,shop_3
+714,Spaghetti Squash,10,8767.8,2020-03-30,shop_3
+715,Liqueur - Melon,56,3936.58,2020-12-16,shop_3
+716,Muffin Batt - Choc Chk,9,4961.76,2020-01-23,shop_1
+717,Vinegar - Raspberry,91,2261.38,2020-06-08,shop_1
+718,"Veal - Inside Round / Top, Lean",36,7291.26,2020-11-30,shop_1
+719,Basil - Fresh,40,1185.05,2020-07-07,shop_1
+720,"Doilies - 12, Paper",66,6631.45,2020-02-04,shop_2
+721,Puree - Mocha,34,3582.18,2020-04-10,shop_3
+722,Coffee - Hazelnut Cream,42,6245.03,2020-09-14,shop_4
+723,Wine - Cabernet Sauvignon,66,5836.6,2020-04-27,shop_1
+724,Haggis,48,3675.24,2020-03-03,shop_3
+725,Sambuca - Opal Nera,80,350.09,2020-04-24,shop_3
+726,Marzipan 50/50,,514.62,2020-04-11,shop_2
+727,Lettuce - Escarole,83,6427.0,2020-09-06,shop_2
+728,"Crush - Orange, 355ml",61,5743.45,2020-06-19,shop_1
+729,Chutney Sauce,27,8840.25,2020-05-04,shop_2
+730,"Tart Shells - Savory, 4",50,9739.27,2020-06-04,shop_1
+731,"Tortillas - Flour, 8",93,6009.42,2020-01-16,shop_2
+732,"Fish - Atlantic Salmon, Cold",95,9941.43,2020-02-15,shop_4
+733,Beans - Fine,80,5485.65,2020-02-03,shop_2
+734,Arrowroot,18,3417.4,2020-04-07,shop_3
+735,Longos - Grilled Chicken With,23,2368.33,2020-04-13,shop_4
+736,Sea Bass - Whole,57,928.47,2020-09-15,shop_2
+737,Pate Pans Yellow,12,5639.29,2021-01-06,shop_2
+738,Muffin Batt - Choc Chk,17,9367.67,2020-10-20,shop_3
+739,Cup - 8oz Coffee Perforated,26,1445.13,2020-02-24,shop_1
+740,Cheese - Bakers Cream Cheese,5,1352.63,2020-03-11,shop_1
+741,"Pepper - Black, Whole",76,4173.31,2020-01-27,shop_1
+742,Mix - Cocktail Ice Cream,68,3103.24,2020-03-04,shop_1
+743,Plastic Wrap,70,6475.89,2020-05-19,shop_3
+744,Jolt Cola,57,9655.5,2020-12-20,shop_2
+745,Sage Ground Wiberg,37,5672.83,2020-09-15,shop_2
+746,"Juice - Tomato, 48 Oz",86,4260.82,2020-05-19,shop_2
+747,Beer - Muskoka Cream Ale,45,5971.51,2020-06-11,shop_1
+748,Extract - Lemon,10,8873.16,2020-02-06,shop_1
+749,"Chicken - Breast, 5 - 7 Oz",43,7274.0,2020-03-22,shop_4
+750,Creme De Menth - White,88,5537.99,2020-10-11,shop_4
+751,Juice - Propel Sport,25,3262.29,2020-12-11,shop_1
+752,"Fish - Scallops, Cold Smoked",76,7301.51,2020-12-24,shop_4
+753,Greens Mustard,78,1848.74,2020-03-02,shop_2
+754,Relish,76,4041.13,2020-04-06,shop_4
+755,Bacon Strip Precooked,,4118.82,2020-10-13,shop_1
+756,Grand Marnier,,6860.87,2020-10-25,shop_1
+757,"Crush - Grape, 355 Ml",44,1049.53,2020-03-11,shop_1
+758,Cookies Cereal Nut,76,3294.74,2020-11-23,shop_2
+759,Triple Sec - Mcguinness,81,4019.06,2020-09-16,shop_3
+760,"Lemonade - Kiwi, 591 Ml",92,2588.92,2020-11-25,shop_3
+761,Wine - Casillero Del Diablo,91,5926.46,2020-06-11,shop_3
+762,Tomato Paste,33,6025.79,2020-07-22,shop_4
+763,"Bar Mix - Pina Colada, 355 Ml",55,5717.16,2020-08-29,shop_2
+764,Wine - Sawmill Creek Autumn,19,1931.45,2020-01-23,shop_4
+765,Wine - Pinot Noir Stoneleigh,37,5003.09,2020-12-24,shop_1
+766,Bread - Dark Rye,63,3318.27,2020-03-05,shop_1
+767,Beef - Texas Style Burger,64,1533.82,2020-02-27,shop_2
+768,Lamb Tenderloin Nz Fr,27,9961.13,2020-06-27,shop_1
+769,Wine - Semi Dry Riesling Vineland,84,4729.89,2020-11-24,shop_1
+770,Sole - Iqf,88,4247.16,2020-06-01,shop_4
+771,Oil - Pumpkinseed,29,3647.23,2020-08-02,shop_2
+772,Extract - Rum,61,7474.76,2020-02-26,shop_3
+773,Pumpkin - Seed,61,6060.93,2020-02-15,shop_2
+774,Calypso - Pineapple Passion,56,1647.66,2020-08-01,shop_2
+775,Milk - Buttermilk,97,6201.52,2020-07-09,shop_1
+776,Kiwi,49,6304.14,2020-11-02,shop_1
+777,Bread - Sour Sticks With Onion,42,3196.84,2020-08-14,shop_1
+778,"Sugar - Brown, Individual",39,7402.95,2021-01-07,shop_4
+779,Spice - Greek 1 Step,22,6349.49,2020-08-04,shop_2
+780,Olives - Stuffed,29,2829.1,2020-10-12,shop_4
+781,Onions - Cooking,82,3362.99,2020-02-07,shop_4
+782,Curry Paste - Green Masala,52,100.61,2020-07-14,shop_3
+783,Cookie Dough - Oatmeal Rasin,68,5407.88,2020-02-28,shop_4
+784,"Bread - White, Unsliced",38,319.1,2020-12-22,shop_3
+785,"Soup - Campbells, Chix Gumbo",5,744.51,2020-12-20,shop_3
+786,Gelatine Leaves - Bulk,,3571.6,2020-06-15,
+787,Garbage Bag - Clear,77,7267.88,2020-11-28,shop_4
+788,"Juice - Tomato, 10 Oz",95,1253.72,2020-04-07,shop_2
+789,Chips Potato All Dressed - 43g,21,3247.16,2020-10-13,shop_3
+790,Chocolate Bar - Oh Henry,85,269.46,2020-12-28,shop_1
+791,"Chicken - White Meat, No Tender",4,5753.25,2020-11-03,shop_3
+792,"Juice - V8, Tomato",37,7719.92,2020-10-19,shop_2
+793,Cookies Oatmeal Raisin,29,40.09,2020-09-30,shop_3
+794,Beets - Golden,19,5450.64,2020-10-13,shop_1
+795,Durian Fruit,6,9725.08,2020-04-10,shop_2
+796,"Cheese - Brie, Triple Creme",23,8426.72,2020-11-17,
+797,Gatorade - Orange,34,4848.57,2020-05-01,shop_4
+798,Jerusalem Artichoke,18,7380.02,2020-12-15,shop_1
+799,Longos - Lasagna Beef,80,6634.95,2020-05-14,shop_1
+800,Stock - Fish,46,7329.28,2020-08-18,shop_3
+801,Table Cloth 62x114 White,75,6455.09,2020-05-06,shop_4
+802,Compound - Passion Fruit,7,4835.77,2020-02-29,shop_3
+803,Cheese - Mozzarella,78,4281.96,2020-03-13,shop_3
+804,Napkin Colour,62,5894.17,2020-09-26,shop_3
+805,Daikon Radish,7,9031.37,2020-03-31,shop_1
+806,"Pasta - Canelloni, Single Serve",48,6506.96,2020-12-02,shop_1
+807,"Bread - Rolls, Corn",52,2842.97,2020-02-05,shop_4
+808,Sausage - Breakfast,46,4231.7,2020-03-29,shop_1
+809,"Turkey - Breast, Smoked",79,4902.22,2020-05-21,shop_4
+810,Shark - Loin,64,5604.84,2020-06-27,shop_1
+811,"Pasta - Fusili, Dry",35,2556.23,2020-04-02,shop_4
+812,Wine - Maipo Valle Cabernet,21,6970.07,2020-06-08,shop_2
+813,"Turkey - Breast, Smoked",80,5919.5,2020-08-15,shop_4
+814,Drambuie,3,5912.53,2020-02-09,shop_3
+815,Pastry - Carrot Muffin - Mini,14,7160.46,2020-02-18,shop_4
+816,Bagel - Everything,70,1019.77,2020-12-09,shop_1
+817,Soup - Cream Of Broccoli,68,5730.14,2020-04-17,shop_4
+818,Carbonated Water - Wildberry,98,9686.08,2020-04-14,shop_4
+819,Gooseberry,72,7458.35,2020-09-02,shop_3
+820,"Veal - Insides, Grains",10,3835.92,2020-03-26,shop_2
+821,Appetizer - Southwestern,2,1795.44,2020-01-09,shop_2
+822,Cheese - Gorgonzola,96,5492.17,2020-09-18,shop_3
+823,"Split Peas - Yellow, Dry",96,574.79,2020-08-03,shop_1
+824,Sprouts - Bean,92,1568.67,2020-08-09,shop_1
+825,Watercress,13,6421.1,2020-04-16,shop_2
+826,Pepper - Yellow Bell,4,7361.59,2020-10-30,shop_2
+827,"Cheese - Mozzarella, Shredded",36,4283.33,2020-10-19,shop_4
+828,Pomello,87,6023.17,2020-04-28,shop_2
+829,Irish Cream - Baileys,76,6676.8,2020-03-07,shop_3
+830,Beef - Striploin Aa,29,3933.82,2020-01-24,shop_3
+831,Sauce - Demi Glace,70,9641.53,2020-05-26,shop_2
+832,"Lobster - Baby, Boiled",9,3884.89,2020-02-29,shop_3
+833,Spinach - Packaged,42,5408.16,2020-08-11,shop_4
+834,Onions - Spanish,7,5211.46,2020-04-23,shop_2
+835,Red Pepper Paste,54,6477.86,2020-06-05,
+836,Lid Tray - 16in Dome,48,2586.66,2020-10-01,shop_2
+837,Soup - Tomato Mush. Florentine,33,7371.9,2020-05-07,shop_1
+838,Danishes - Mini Raspberry,69,9242.88,2020-01-09,shop_3
+839,Crab - Meat Combo,20,3206.29,2020-05-06,shop_1
+840,Carrots - Mini Red Organic,12,8827.16,2020-09-08,shop_4
+841,Cheese - Le Cheve Noir,26,3554.0,2020-07-15,shop_2
+842,Monkfish - Fresh,54,7819.34,2020-11-17,shop_3
+843,Sproutsmustard Cress,5,909.14,2020-04-07,shop_3
+844,"Wine - White, Mosel Gold",17,5417.61,2020-06-25,shop_3
+845,Sponge Cake Mix - Chocolate,60,6884.71,2020-09-17,shop_2
+846,Vodka - Moskovskaya,70,2967.11,2020-12-07,shop_4
+847,Soup - Campbells Broccoli,90,2125.65,2020-04-05,shop_3
+848,"Pasta - Cannelloni, Sheets, Fresh",21,7204.9,2020-01-15,shop_4
+849,"Yogurt - Banana, 175 Gr",21,9183.37,2020-05-13,shop_3
+850,Cheese - Bakers Cream Cheese,56,7672.49,2020-12-11,shop_4
+851,Guava,9,6577.95,2020-08-18,shop_4
+852,Breakfast Quesadillas,32,5257.01,2020-09-24,shop_3
+853,Wine - Muscadet Sur Lie,26,642.81,2020-12-14,shop_4
+854,Cookie - Oreo 100x2,63,2537.6,2020-10-04,shop_2
+855,Tomatoes - Roma,15,4356.61,2020-11-20,shop_2
+856,"Stock - Beef, White",72,6665.38,2020-10-30,shop_4
+857,Towel Multifold,33,5689.43,2020-08-26,shop_1
+858,Pumpkin - Seed,91,9381.94,2020-11-15,shop_4
+859,Chicken - Tenderloin,12,7150.21,2020-04-24,shop_1
+860,Jagermeister,53,3016.73,2020-01-11,shop_1
+861,Rice - Sushi,,6077.15,2020-02-24,shop_3
+862,Bar Bran Honey Nut,35,1067.41,2020-10-12,
+863,"Gingerale - Schweppes, 355 Ml",90,4130.27,2020-10-16,shop_1
+864,Food Colouring - Blue,89,138.57,2020-10-14,shop_2
+865,"Soup - Campbells, Cream Of",79,3995.08,2020-12-05,shop_2
+866,Tray - 16in Rnd Blk,48,2208.06,2020-12-14,shop_4
+867,Wine - Dubouef Macon - Villages,97,7621.22,2020-12-29,shop_1
+868,Cardamon Seed / Pod,92,5992.83,2020-05-12,shop_3
+869,Hummus - Spread,16,9265.98,2020-12-15,shop_3
+870,"Tabasco Sauce, 2 Oz",42,9691.2,2020-07-30,shop_4
+871,Island Oasis - Peach Daiquiri,35,1143.14,2020-06-03,shop_3
+872,Bread Sour Rolls,47,1933.79,2020-04-12,shop_4
+873,"Chestnuts - Whole,canned",86,9264.26,2020-10-03,shop_3
+874,Rye Special Old,73,4100.78,2020-05-30,shop_1
+875,Beer - Original Organic Lager,97,7907.81,2020-07-26,shop_1
+876,Muffin Mix - Chocolate Chip,91,5783.02,2020-08-04,shop_3
+877,Cocoa Powder - Dutched,8,2145.29,2020-07-20,shop_1
+878,Beer - Sleemans Cream Ale,86,6933.27,2020-01-25,shop_3
+879,"Juice - Orange, 341 Ml",93,7583.96,2020-08-04,shop_4
+880,"Wine - White, Lindemans Bin 95",8,739.07,2020-09-07,shop_4
+881,Lotus Leaves,69,358.17,2020-01-19,shop_1
+882,Table Cloth 53x53 White,92,4614.29,2020-05-28,shop_3
+883,Cookie Dough - Peanut Butter,36,8827.94,2020-06-30,shop_1
+884,Mountain Dew,41,7448.62,2020-02-07,shop_1
+885,Plate Pie Foil,21,886.77,2020-06-03,shop_4
+886,Wine - Taylors Reserve,95,5938.73,2020-04-06,shop_3
+887,Muffin - Mix - Mango Sour Cherry,82,9390.58,2020-11-19,shop_1
+888,"Turkey - Breast, Smoked",100,2352.83,2020-05-04,shop_4
+889,Shrimp - Black Tiger 16/20,53,3093.27,2020-04-22,shop_3
+890,Oil - Shortening - All - Purpose,89,9009.6,2020-01-24,shop_1
+891,Wine - Casillero Deldiablo,97,5788.11,2020-03-01,shop_1
+892,Ocean Spray - Ruby Red,,5021.61,2020-05-17,shop_3
+893,"Ranchero - Primerba, Paste",52,3677.76,2020-02-25,shop_2
+894,Boogies,49,7440.14,2020-07-24,shop_1
+895,"Wine - Red, Colio Cabernet",63,5335.45,2020-04-18,shop_3
+896,Wine - Chardonnay Mondavi,1,6722.84,2020-12-14,shop_1
+897,Beer - Camerons Auburn,78,8823.39,2020-10-15,shop_4
+898,Cheese - Le Cru Du Clocher,27,7122.31,2020-11-17,
+899,Lettuce - Escarole,63,3055.74,2021-01-04,shop_4
+900,Mushroom - Portebello,37,595.62,2020-08-07,shop_1
+901,Garbage Bags - Black,87,5294.53,2020-10-18,shop_3
+902,Cheese - Gouda,98,2392.34,2020-04-03,
+903,"Hickory Smoke, Liquid",2,796.99,2020-04-21,shop_4
+904,"Wine - White, Colubia Cresh",55,3069.2,2020-04-18,shop_1
+905,Bread - Focaccia Quarter,87,2219.32,2020-07-09,shop_4
+906,Veal - Knuckle,27,2089.93,2020-03-01,shop_1
+907,Tomatoes - Roma,59,5675.99,2020-07-27,shop_1
+908,Milkettes - 2%,13,198.26,2020-10-28,shop_2
+909,"Fish - Soup Base, Bouillon",55,590.58,2020-06-15,shop_2
+910,Mustard Prepared,21,1373.8,2020-07-26,shop_2
+911,Apple - Royal Gala,36,6509.21,2020-07-08,shop_1
+912,Soup Bowl Clear 8oz92008,20,6003.64,2020-11-14,shop_3
+913,Beef - Short Loin,23,781.73,2020-02-20,shop_1
+914,Mint - Fresh,22,478.32,2020-02-16,shop_4
+915,Mousse - Banana Chocolate,37,5169.85,2020-10-24,shop_2
+916,Beef - Eye Of Round,61,2044.66,2020-07-26,shop_1
+917,Cup - Translucent 7 Oz Clear,35,6213.64,2020-04-19,shop_3
+918,Quiche Assorted,31,5252.32,2020-06-09,shop_2
+919,Ham - Cooked,6,4489.86,2020-03-24,shop_3
+920,Cake - Mini Potato Pancake,74,9452.6,2020-09-19,shop_4
+921,Wine - Chenin Blanc K.w.v.,67,4205.18,2020-07-12,shop_2
+922,Nori Sea Weed,87,2273.11,2020-12-10,shop_1
+923,Oil - Coconut,93,3858.74,2020-03-12,shop_2
+924,Trueblue - Blueberry 12x473ml,2,685.44,2020-02-19,shop_4
+925,Pepper - Pablano,90,4096.48,2020-01-29,shop_2
+926,Apple - Granny Smith,19,6952.2,2020-11-11,shop_1
+927,Bread Fig And Almond,70,5659.65,2020-04-10,shop_2
+928,"Soup - Campbells, Spinach Crm",46,6032.76,2020-10-28,shop_2
+929,"Tomatoes - Diced, Canned",87,8831.02,2020-06-21,shop_1
+930,Shallots,10,7916.77,2020-04-29,shop_3
+931,"Hickory Smoke, Liquid",98,8168.77,2020-05-04,shop_1
+932,Foam Espresso Cup Plain White,85,2239.31,2020-07-14,shop_3
+933,"Veal - Brisket, Provimi, Bone - In",52,8539.61,2020-11-07,shop_2
+934,Pasta - Ravioli,15,7779.93,2020-09-24,shop_2
+935,"Cup - 3.5oz, Foam",16,1852.21,2020-08-11,shop_4
+936,Cheese - Grie Des Champ,25,3635.75,2020-09-05,shop_1
+937,Broom And Brush Rack Black,97,1379.18,2020-08-31,
+938,Tea - English Breakfast,66,2295.14,2020-04-16,shop_4
+939,Lettuce - Iceberg,61,9522.27,2020-03-28,shop_4
+940,Water - Spring 1.5lit,12,9792.3,2020-01-25,shop_3
+941,"Cookies - Oreo, 4 Pack",49,3150.4,2020-10-14,shop_3
+942,Lid Coffee Cup 8oz Blk,42,6369.44,2020-08-02,shop_4
+943,Bread - Corn Muffaletta,4,7210.89,2020-02-16,shop_4
+944,Coffee - Espresso,93,188.39,2020-11-05,shop_1
+945,Muffin - Blueberry Individual,75,5842.17,2020-07-21,shop_1
+946,Cake - Cheese Cake 9 Inch,42,7899.86,2020-05-22,shop_2
+947,Onion Powder,86,6022.98,2020-04-25,shop_1
+948,Sauce - Caesar Dressing,31,7445.42,2020-07-02,
+949,Bagelers - Cinn / Brown Sugar,10,8968.55,2020-12-07,shop_1
+950,Food Colouring - Green,41,1196.55,2020-07-15,shop_3
+951,"Beef - Kindney, Whole",38,5095.44,2020-08-16,shop_2
+952,Salmon - Sockeye Raw,64,757.72,2020-05-07,shop_2
+953,Cheese - Gouda,44,9678.39,2020-01-10,shop_4
+954,Spice - Montreal Steak Spice,36,4837.16,2020-06-10,shop_4
+955,Leeks - Large,80,4964.58,2020-11-09,shop_3
+956,Veal - Knuckle,22,5471.23,2020-01-15,shop_4
+957,"Mushroom - Porcini, Dry",56,1650.93,2021-01-07,shop_1
+958,Energy Drink Red Bull,77,9393.86,2020-06-15,shop_1
+959,"Mustard - Dry, Powder",97,8334.03,2020-12-05,shop_3
+960,Wine - Magnotta - Cab Sauv,77,3336.79,2020-10-12,shop_2
+961,Veal - Insides Provini,50,3564.25,2020-03-22,shop_4
+962,Eggwhite Frozen,7,8372.34,2020-12-04,shop_1
+963,Beer - Steamwhistle,7,163.36,2020-11-29,shop_3
+964,Coffee Beans - Chocolate,97,9777.11,2020-10-04,shop_2
+965,"Shrimp - 16 - 20 Cooked, Peeled",85,2618.69,2020-07-08,shop_4
+966,"Tortillas - Flour, 12",91,66.1,2020-11-27,shop_1
+967,"Lettuce - Mini Greens, Whole",59,4395.98,2020-10-19,shop_1
+968,Veal - Nuckle,35,2248.12,2020-01-18,shop_4
+969,Soup - Tomato Mush. Florentine,35,2465.93,2020-09-19,shop_3
+970,Syrup - Pancake,70,1850.55,2020-02-15,shop_2
+971,"Clams - Littleneck, Whole",67,8006.99,2020-09-01,shop_1
+972,Wine - Trimbach Pinot Blanc,9,9148.84,2020-02-07,shop_3
+973,Danishes - Mini Raspberry,93,8716.03,2020-10-17,shop_2
+974,Sherry - Dry,97,8379.0,2020-10-08,shop_4
+975,Onions - Vidalia,99,5166.67,2020-08-20,shop_1
+976,Juice - Propel Sport,60,2631.95,2020-11-23,shop_2
+977,"Pork - Butt, Boneless",20,602.47,2020-11-26,shop_3
+978,Ecolab - Hobart Upr Prewash Arm,79,1311.81,2020-01-22,shop_4
+979,Couscous,48,6097.19,2020-07-10,shop_1
+980,Chicken - Leg / Back Attach,77,6970.61,2020-06-06,shop_1
+981,Pork - Bacon Cooked Slcd,18,5931.76,2020-01-14,shop_3
+982,"Sauce - Soya, Dark",96,2683.14,2020-02-23,shop_3
+983,Wine - Vovray Sec Domaine Huet,55,6909.74,2020-12-20,shop_4
+984,Ice Cream - Super Sandwich,100,5150.08,2020-05-14,shop_2
+985,Cranberries - Frozen,16,6702.65,2020-05-31,shop_2
+986,Longos - Greek Salad,6,9800.87,2020-02-16,shop_3
+987,Wine - Chardonnay Mondavi,36,3361.93,2020-09-29,shop_4
+988,"Gin - Gilbeys London, Dry",59,4251.22,2020-06-19,shop_4
+989,Lettuce - Sea / Sea Asparagus,,704.87,2020-07-14,shop_4
+990,"Beef - Bones, Cut - Up",98,7190.86,2020-04-19,shop_2
+991,Celery Root,48,2466.71,2020-12-11,shop_3
+992,Coconut - Whole,60,4921.85,2020-12-13,shop_1
+993,"Pepper - Black, Ground",51,6509.62,2020-10-02,shop_2
+994,Cake - Bande Of Fruit,51,5236.77,2020-02-13,shop_2
+995,Turnip - Mini,33,1708.06,2020-01-10,shop_4
+996,Raisin - Dark,91,6321.24,2020-09-11,shop_2
+997,Wonton Wrappers,100,2532.41,2020-08-11,shop_1
+998,"Bread - White, Sliced",55,979.93,2020-12-30,shop_2
+999,"Apple - Delicious, Red",85,5545.81,2020-10-16,shop_4
+1000,Shark - Loin,19,1211.47,2020-09-07,shop_4
