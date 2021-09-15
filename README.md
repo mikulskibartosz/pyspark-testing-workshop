@@ -1,28 +1,77 @@
-# pyspark-testing-workshop
+# Instrukcja
 
-Dane testowe wygenerowane przez https://www.mockaroo.com/
+W celu przygotowania środowiska przed warsztatem wykonaj **wszystkie** kroki z poniższej instrukcji.
 
-Zadania
+# Instalacja
 
-1. Ile produktów jest w zbiorze danych?
-2. Ile produktów zostało sprzedanych w każdym z sklepów? 
-3. Jaki jest najpopularniejszy produkt?
-4. Jaka jest najpopularniejsza kategoria produktu?
-5. Ile unikalnych produktów zostało sprzedanych każdego dnia?
-6. Jaka jest średnia wartość pojedynczego zakupu? Załóż, że null w kolumnie `pieces_sold` oznacza 1
-7. Ile średnio zarabia każdy ze sklepów każdego dnia? Załóż, że null w kolumnie `pieces_sold` oznacza 1
-8. Który ze sklepów najczęściej pomija wpisywanie liczby produktów?
-9. Którego dnia sprzedano najwięcej produktów (suma `pieces_sold` dla każdego dnia)?
-10. Jaka jest największa liczba jednorazowo kupionych produktów w każdym ze sklepów w każdy z dostępnych dni (max `pieces_sold`)?
-11. Jakie to były produkty?
+0. Przeczytaj wszystkie kroki instrukcji **zanim** zaczniesz je wykonywać.
 
+1. Sklonuj to repozytorium: https://github.com/mikulskibartosz/pyspark-testing-workshop.
 
-Zadania walidacja danych
+2. Zainstaluj Pipenv: https://pypi.org/project/pipenv/#description
 
-1. Sprawdź czy istnieją dane z brakującymi identyfikatorami sklepów.
-2. Sprawdź czy istnieją zamówienia z liczbą produktów większą niż 15.
-3. Sprawdź czy istneiją zamówienia w wybranej przez siebie kategorii.
-4. Sprawdź czy wszystkie nazwy produktów są unikalne.
-5. Sprawdź czy nazwy produktów nie są puste oraz nie dłuższe niż 20 znaków.
-6. Sprawdź czy liczba unikalnych produktów jest większa niż 900.
-7. Sprawdź czy istnieją zamówienia których cena pojedynczego przedmiotu jest większa niż: średnia cena przedmiotu + dwukrotność odchylenia standardowego
+3. `pipenv shell`, a następnie `pipenv install --dev`
+
+Jeśli Python 3.7 nie jest zainstalowany, zainstaluj Python 3.7 (używając instrukcji dla właściwego systemu operacyjnego: https://www.python.org/downloads/) i użyj polecenia `pipenv --python [ścieżka do Python 3.8]` np. `pipenv --python /usr/local/opt/python@3.7/bin/python3`. Następnie powtórz punkt 3.
+
+4. Jeśli używasz IntelliJ, dodaj środowisko Pipenv w projekcie:
+
+* Otwórz katalog z tym projektem w Intellij i zaczekaj na zaindeksowanie projektu
+
+* Ustaw `Pipenv Environment` jako interpreter w IntelliJ:
+
+  * File -> Project structure
+
+  * Dodaj nowe SDK: ![Ustawienie SKD](img/new_sdk.png)
+  
+  * Jeśli na liście SDK nie ma `Python SDK`, zainstaluj plugin `Python` w IntelliJ.
+
+  * Dodaj python3 z katalogu `Pipenv Environment` jako interpreter Pythona ![Interpreter z .venv](img/interpreter.png)
+
+5. (opcjonalnie) Zainstaluj plugin `Gherkin` w IntelliJ.
+
+6. Jeśli używasz innego IDE, również użyj `Pipenv` jako środowiska do uruchamiania.
+
+# Jak sprawdzić czy wszystko działa (w konsoli)
+
+1. W katalogu z projektem uruchom: `pipenv shell` (pomiń jeśli Pipenv już działa)
+
+1. Uruchom `pipenv install --dev`
+
+1. Uruchom `pipenv run behave`
+
+Oczekiwany rezultat:
+
+```
+Feature: The workshop website should contain correct data # features/scenario.feature:1
+
+  Scenario: The workshop title contains BDD  # features/scenario.feature:3
+    When workshop website is retrieved       # features/steps/stacjait.py:6 0.807s
+    Then the title contains "PySpark?"       # features/steps/stacjait.py:12 0.001s
+
+1 feature passed, 0 failed, 0 skipped
+1 scenario passed, 0 failed, 0 skipped
+2 steps passed, 0 failed, 0 skipped, 0 undefined
+```
+
+1. Uruchom `pipenv run pytest`
+
+Oczekiwany rezultat:
+
+```
+collected 1 item
+tests/test_pytest.py . [100%]
+1 passed in 0.94s
+```
+
+1. Uruchom `pipenv run python3 deeque/main.py`.
+
+Oczekiwany rezultat:
+
+```
++------------+-----------+------------+--------------------+-----------------+------------------+
+|       check|check_level|check_status|          constraint|constraint_status|constraint_message|
++------------+-----------+------------+--------------------+-----------------+------------------+
+|Review Check|    Warning|     Success|SizeConstraint(Si...|          Success|                  |
++------------+-----------+------------+--------------------+-----------------+------------------+
+```

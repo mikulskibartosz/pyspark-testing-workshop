@@ -8,6 +8,9 @@ verify_ssl = true
 [packages]
 pydeequ = "==1.0.1"
 pyspark = "==3.1.2"
+behave = "==1.2.6"
+pytest = "==6.2.2"
+requests = "==2.25.1"
 
 [requires]
 python_version = "3.7"

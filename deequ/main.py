@@ -1,4 +1,4 @@
-from pyspark.sql import SparkSession, Row
+from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType,StructField, StringType, IntegerType, DoubleType, DateType
 
 import pydeequ
@@ -22,32 +22,18 @@ spark = (SparkSession
     .config("spark.jars.excludes", pydeequ.f2j_maven_coord)
     .getOrCreate())
 
-df = spark.read.csv("../MOCK_DATA.csv",  header=True, schema=schema)
+df = spark.read.csv("MOCK_DATA.csv",  header=True, schema=schema)
 
-df.show()
-
-analysisResult = AnalysisRunner(spark) \
-                    .onData(df) \
-                    .addAnalyzer(Size()) \
-                    .addAnalyzer(Completeness("product_name")) \
-                    .addAnalyzer(Completeness("pieces_sold")) \
-                    .run()
-
-analysisResult_df = AnalyzerContext.successMetricsAsDataFrame(spark, analysisResult)
-analysisResult_df.show()
 
 check = Check(spark, CheckLevel.Warning, "Review Check")
 
 checkResult = VerificationSuite(spark) \
     .onData(df) \
     .addCheck(
-        check.hasSize(lambda x: x >= 3) \
-        .hasMin("price_per_item", lambda x: x == 0) \
-        .isComplete("pieces_sold")  \
-        .isUnique("product_name")  \
-        .isContainedIn("shop_id", ["shop_1", "shop_2", "shop_3"]) \
-        .isNonNegative("price_per_item")) \
+        check.hasSize(lambda x: x == 1000)) \
     .run()
 
 checkResult_df = VerificationResult.checkResultsAsDataFrame(spark, checkResult)
 checkResult_df.show()
+
+spark.sparkContext._gateway.shutdown_callback_server()
