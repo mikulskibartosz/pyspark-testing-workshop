@@ -64,7 +64,7 @@ tests/test_pytest.py . [100%]
 1 passed in 0.94s
 ```
 
-1. Uruchom `pipenv run python3 deeque/main.py`.
+1. Uruchom `pipenv run python3 deequ/main.py`.
 
 Oczekiwany rezultat:
 
